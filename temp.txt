@@ -1,0 +1,1623 @@
+<html lang="ko"><head>
+		<title>운영/운휴 | 꿈, 사랑, 행복의 경주월드!</title>
+		<meta charset="utf-8">
+		<meta name="robots" content="follow, index">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="subject" content="">
+		<meta name="title" content="">
+		<meta name="description" content="꿈, 사랑, 행복의 경주월드!">
+		<meta name="keywords" content="theme parks, roller coasters, gyeongjuWorld">
+		<meta name="rating" content="general">
+		<meta name="generator" content="Photoshop, Aftereffect">
+		<meta name="rights" content="Copyright ⓒ2018 GyeongjuWorld.">
+		<link rel="canonical" href="https://www.gjw.co.kr/">
+		<link rel="shortlink" href="https://www.gjw.co.kr/">
+		<meta property="og:type" content="landmark">
+		<meta property="og:url" content="">
+        <meta property="og:image" content="/images/og_dp.jpg">
+		<meta property="og:title" content="운영/운휴 | 꿈, 사랑, 행복의 경주월드!">
+		<meta property="og:description" content="꿈, 사랑, 행복의 경주월드!">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes">
+		<meta name="format-detection" content="telephone=no">
+		<link rel="canonical" href="https://www.gjw.co.kr">
+
+		<!-- 2024 경주월드 -->
+    <link rel="stylesheet" href="/inc/gjw_2024/css/swiper-bundle.min.css">
+		<link rel="stylesheet" type="text/css" href="/inc/gjw_2024/css/common.css?ver=1735626963">
+		<link rel="stylesheet" type="text/css" href="/inc/gjw_2024/css/font.css?ver=1735626963">
+
+		<link rel="shortcut icon" href="/images/gjw_2024/favicon/favicon_dp.ico">
+		<link rel="apple-touch-icon-precomposed" href="/images/gjw_2024/favicon/gjw-touch-icon.jpg">
+
+		<script src="https://connect.facebook.net/signals/config/334327730781062?v=2.9.179&amp;r=stable&amp;domain=www.gjw.co.kr&amp;hme=b8122d5d96cd6f542162ba4f497489972d1ebe228d24c39d34f560e30ae932ce&amp;ex_m=70%2C122%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C173%2C176%2C188%2C184%2C185%2C187%2C29%2C101%2C53%2C77%2C186%2C168%2C171%2C181%2C182%2C189%2C132%2C41%2C191%2C192%2C34%2C144%2C15%2C50%2C197%2C196%2C134%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C169%2C172%2C141%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-11045267619&amp;l=dataLayer&amp;cx=c&amp;gtm=457e4cc1za200"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-QS6BQZ7S07&amp;l=dataLayer&amp;cx=c&amp;gtm=457e4cc1za200"></script><script src="/inc/gjw_2024/js/14jquery.min.js"></script>
+		
+
+		<link rel="stylesheet" type="text/css" href="/inc/gjw_2024/bs/bootstrap.css?ver=1735626963">
+		<link rel="stylesheet" type="text/css" href="/inc/gjw_2024/bs/bootstrap.min.css?ver=1735626963">
+		<link rel="stylesheet" type="text/css" href="/inc/gjw_2024/bs/bootstrap.js?ver=1735626963">
+		<link rel="stylesheet" type="text/css" href="/inc/gjw_2024/bs/bootstrap.min.js?ver=1735626963">
+		<link rel="stylesheet" href="/css/gjw_2024/reset.css?ver=1735626963">
+		<link rel="stylesheet" href="/css/webzine.css?ver=1735626963">
+		<link rel="stylesheet" href="/css/gjw_2024/owl.carousel.css?ver=1735626963">
+        <link rel="stylesheet" href="/css/gjw_2024/jquery.fs.zoomer.css">
+        <link rel="stylesheet" type="text/css" href="/css/gjw_2024/sub.css?ver=1735626963">
+		<link rel="stylesheet" type="text/css" href="/css/gjw_2024/main.css?ver=1735626963">
+        <link rel="stylesheet" type="text/css" href="/css/new_common.css?ver=1735626963">
+        <link rel="stylesheet" type="text/css" href="/css/new_main.css?ver=1735626963">
+        <link rel="stylesheet" type="text/css" href="/css/new_sub.css?ver=1735626963">
+
+
+		<script type="text/javascript" src="/inc/gjw_2024/js/script.js?ver=1735626963"></script>
+		<script src="https://kit.fontawesome.com/f5b5806251.js" crosssorigin="anonymous"></script>
+		
+		
+		
+                <script type="text/javascript" src="/inc/gjw_2024/js/TweenMax.min.js"></script>
+		
+		<script src="/inc/gjw_2024/js/bootstrap.bundle.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.fs.zoomer.js"></script>
+        <script type="text/javascript" src="/js/imageMapResizer.min.js"></script>
+		<!-- 2024 경주월드 -->
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-119147153-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'UA-119147153-1');
+    </script>
+
+		<!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-11045267619"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      gtag('config', 'AW-11045267619');
+    </script>
+
+		<script type="text/javascript" charset="UTF-8" src="//t1.daumcdn.net/kas/static/kp.js"></script>
+		<script type="text/javascript">
+			kakaoPixel('4564186191118487507').pageView();
+		</script>
+		<!-- IE8 에서 HTML5 요소와 미디어 쿼리를 위한 HTML5 shim 와 Respond.js -->
+		<!-- WARNING: Respond.js 는 당신이 file:// 을 통해 페이지를 볼 때는 동작하지 않습니다. -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+
+	<script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11045267619/?random=1735626963836&amp;cv=11&amp;fst=1735626963836&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be4cc1v9186657364za200&amp;gcd=13l3l3R3l5l1&amp;dma=0&amp;tag_exp=101925629~102067555~102067808~102081485~102198178&amp;u_w=2560&amp;u_h=1440&amp;url=https%3A%2F%2Fwww.gjw.co.kr%2FContents%2Fcontents.php%3FcmsNo%3DDA0200&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%EC%9A%B4%EC%98%81%2F%EC%9A%B4%ED%9C%B4%20%7C%20%EA%BF%88%2C%20%EC%82%AC%EB%9E%91%2C%20%ED%96%89%EB%B3%B5%EC%9D%98%20%EA%B2%BD%EC%A3%BC%EC%9B%94%EB%93%9C!&amp;npa=0&amp;pscdl=noapi&amp;auid=1297906522.1735626964&amp;uaa=arm&amp;uab=64&amp;uafvl=Google%2520Chrome%3B131.0.6778.205%7CChromium%3B131.0.6778.205%7CNot_A%2520Brand%3B24.0.0.0&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=15.1.1&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.ko.yzulYis_VkI.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfrHc2xxwx6WzKlugGtz1bFpTIKCqw/m=el_main"></script><script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script></head>
+	<!-- 사이트 언어셋 ko -->
+              	<body id="Amusement"><div id="wrapper">
+		<!-- ▼ TOP WARP ·································································································· -->
+		  <!-- ▽TOP-GNB -->
+          
+
+
+
+			<div id="util" style="margin-bottom: 0px;">
+		    <div class="containers" style="margin-bottom: 0px;">
+		      <div class="right" data-controller="controller/COSrchController" data-drv-nm="kor">
+
+		        <div class="links">
+		          <a href="/DrValley/contents.php?cmsNo=KD0000" class="snow" target="_blank"><span>스노우파크</span></a>
+		          <!--<a href="/California/contents.php" class="beach" target="_blank"><span>캘리포니아비치</span></a>-->
+		          <a href="/DrValley/contents.php" target="_blank" class="drack">드라켄밸리</a>
+		        </div>
+		        <!-- 검색 -->
+		        
+                
+                <fieldset id="hd_sch" style="">
+		          <form name="frmSearch" class="search-container" method="POST" action="" onsubmit="return search_submit(this);">
+		            <input type="hidden" name="sfl" value="wr_subject||wr_content">
+		            <input type="hidden" name="sop" value="and">
+		            <input id="search-box" name="stx" class="search-box" autocomplete="off">
+		            <label for="search-box">
+                      
+                      
+		              <i class="search-icon" id="search_icon" autocomplete="off">
+                                              <img src="/images/gjw_2024/sub/icon_search.svg" alt="검색">
+                                            </i>
+                      
+                      
+		            </label>
+		          </form>
+                    <script>
+						/*
+                        $('.search-box').focus(function() {
+                            // 포커스가 되었을 때 실행할 코드
+                            // alert("포커스 들어옴");
+                            $('.search-icon').addClass('focused');
+
+                        });
+                        $('.search-box').blur(function() {
+                            // 포커스가 되었을 때 실행할 코드
+                            // alert("포커스 들어옴");
+                            // if($('.search-box').val()!=''){
+                            //     search_submit();
+                            // }
+                            // $('.search-box').val('');
+                            $('.search-icon').removeClass('focused');
+                        });
+						*/
+
+
+                        // $(document).on('click', '.search-icon', function(){
+                        //     if($('.search-box').val()!=''){
+                        //         window.frmSearch.action = "?cmsNo=DA0800&stl="+$('#search-box').val();
+                        //         window.frmSearch.submit();
+                        //     }
+                        // });
+
+                        function search_submit(f) {
+                            window.frmSearch.action = "?cmsNo=DD0900&stl="+$('#search-box').val();
+                            // alert("들어오나");
+                            // return false;
+                            if ($('#search-box').val().length < 2) {
+                                alert("검색어는 두글자 이상 입력하십시오.");
+                                // f.q.select();
+                                // f.q.focus();
+                                $('#search-box').focus();
+                                return false;
+                            }
+
+                            var gsWin = window.open('about:blank','webzine');
+                            var frm =document.frmSearch;
+                            // frm.action = '/Contents/contents.php?cmsNo=DC0300&sch_str='+ encodeURI(f.q.value);
+                            frm.target ="webzine";
+                            frm.method ="post";
+
+                            frm.submit();
+                        }
+                    </script>
+		        </fieldset>
+
+				<!-- 구글 언어 지원 -->
+				<div id="googleTranslateElementInit"></div>
+                
+
+
+                <div class="util_login">
+                    <ul>
+                                    <li><a href="https://smart.gjw.co.kr/common/loginPage.do">로그인</a></li>
+                                        </ul>
+                </div>
+
+    
+						<div class="lang dropdown">
+                            							<a class="icon_lang" href="#" role="button" data-bs-toggle="dropdown">KOR</a>
+							<ul class="dropdown-menu">
+								<li><a class="eng" href="/Contents/eng_contents.php">ENG</a></li>
+							</ul>
+                                                        						</div>
+
+
+		      </div><!-- // right -->
+		    </div><!-- // container -->
+		  </div><!-- // util -->
+
+		 <!-- ▽GNB -->
+			<div id="header">
+				<div class="containers">
+					<div class="h_logo">
+						<h1>
+                                                        <a href="/Contents/contents.php">
+                                                                                        <img src="/images/gjw_2024/common/logo_gwj_amus.png" alt="경주월드 로고">
+                            </a>
+                        </h1>
+					</div>
+					<div class="h_gnb">
+						<ul id="gnb">
+
+																					
+																												
+							
+							
+							
+							
+							<li id="tlv2_113">
+																<a class="oneD" href="/Contents/contents.php?cmsNo=DB0200">즐길거리</a>
+																<div class="openDiv">
+								  <div class="inner">
+									<div class="leftArea">
+									  <ul class="twoD">
+							
+																<li>
+																		<a href="?cmsNo=DB0200">어트랙션</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DC0100">공연&amp;행사</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DB0300">푸드</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DB0400">스토어</a>
+																	</li>
+								
+																					
+							
+																</ul>
+								</div><!--//leftArea-->
+
+								<div class="today_i">
+									<h2>2024년 12월 31일 화요일</h2>
+									<p>오늘의 운영시간</p>
+									<h2>10:00~18:00</h2>
+								</div>
+
+								</div><!--//inner-->
+							</div><!--//openDiv-->
+							</li>
+							
+							
+							<li id="tlv2_264">
+																<a class="oneD" href="/Contents/contents.php?cmsNo=DA0300">요금/우대</a>
+																<div class="openDiv">
+								  <div class="inner">
+									<div class="leftArea">
+									  <ul class="twoD">
+							
+																<li>
+																		<a href="?cmsNo=DA0300">이용요금</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DA0400">우대혜택</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DA0500">제휴카드</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DE0300">연간이용</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DB0700">기업체</a>
+																	</li>
+								
+																					
+																						
+																</ul>
+								</div><!--//leftArea-->
+
+								<div class="today_i">
+									<h2>2024년 12월 31일 화요일</h2>
+									<p>오늘의 운영시간</p>
+									<h2>10:00~18:00</h2>
+								</div>
+
+								</div><!--//inner-->
+							</div><!--//openDiv-->
+							</li>
+							
+							
+							<li id="tlv2_103">
+																<a class="oneD" href="/Contents/contents.php?cmsNo=DA0200">이용정보</a>
+																<div class="openDiv">
+								  <div class="inner">
+									<div class="leftArea">
+									  <ul class="twoD">
+							
+																<li>
+																		<a href="?cmsNo=DA0200">운영/운휴</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DA0800">이용꿀팁</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DA0901">파크이용안내</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DA0902">편의시설</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DA0900">교통/주차장</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DB0501">가이드맵</a>
+																	</li>
+								
+																					
+							
+																</ul>
+								</div><!--//leftArea-->
+
+								<div class="today_i">
+									<h2>2024년 12월 31일 화요일</h2>
+									<p>오늘의 운영시간</p>
+									<h2>10:00~18:00</h2>
+								</div>
+
+								</div><!--//inner-->
+							</div><!--//openDiv-->
+							</li>
+							
+							
+							<li id="tlv2_124">
+																<a class="oneD" href="/Contents/contents.php?cmsNo=DD0100">고객센터</a>
+																<div class="openDiv">
+								  <div class="inner">
+									<div class="leftArea">
+									  <ul class="twoD">
+							
+																<li>
+																		<a href="?cmsNo=DD0100">공지사항</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DD0400">고객소리함</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DD0500">자주묻는질문</a>
+																	</li>
+								
+																					
+							
+							
+							
+																<li>
+																		<a href="?cmsNo=DD0600">분실물센터</a>
+																	</li>
+								
+																					
+									</ul>
+								</div><!--//leftArea-->
+
+								<div class="today_i">
+									<h2>2024년 12월 31일 화요일</h2>
+									<p>오늘의 운영시간</p>
+									<h2>10:00~18:00</h2>
+								</div>
+
+								</div><!--//inner-->
+							</div><!--//openDiv-->
+							</li>
+						</ul>
+					</div><!-- // h_gnb -->
+					<div class="right">
+                        						<p class="btn_gra"><a href="https://smart.gjw.co.kr/common/resMain.do" target="_black">스마트예약</a></p>
+                        <p class="btn_line"><a href="/Contents/contents.php?cmsNo=DE0200">단체</a></p>
+						<p class="btn_line"><a href="/Contents/contents.php?cmsNo=DE0300" class="btn_line">연간</a></p>
+					                        </div>
+				</div><!-- // container -->
+			</div><!-- // header -->
+
+
+
+			  <!-- ▼ M-TOP WARP ·································································································· -->
+			<!-- ▽M-TOP-GNB -->
+			<div class="mHeader" style="position: relative;">
+				<div>
+					<h1 class="logo">
+						<a href="/"><img src="/images/gjw_2024/common/t_logo.jpg" alt=""></a>
+					</h1>
+            		      <div class="right">
+						<p class="btn_gra"><a href="https://smart.gjw.co.kr/common/resMain.do" target="_black">스마트예약</a></p>
+		      </div>
+            		      <input class="burger-check" type="checkbox" id="burger-check" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">
+		      <label class="burger-icon" for="burger-check">
+		        <span class="burger-sticks"></span>
+		      </label>
+				</div>
+			</div><!-- // mHeader -->
+
+		  <!-- 모바일 메뉴 -->
+		  <div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop" aria-labelledby="offcanvasTopLabel">
+		    <div class="offcanvas-body">
+
+		    <!--상단 주요 메뉴-->
+
+                <div class="util_login util_login_m">
+                    <ul>
+                                            <li><a href="https://smart.gjw.co.kr/common/loginPage.do">로그인</a></li>
+                                        </ul>
+                </div>
+		      <!-- <div class="cali_banner box_gary container-fluid">
+		        <a href="/California/" class="beach" target="_blank" title="캘리포니아비치 새창열기"><img src="/images/gjw_2024/common/logo_cali.png" alt="캘리포니아비치"> 캘리포니아비치</a>
+		      </div>
+		      <div class="member_type">
+		          <div class="member_01 box_gary"><a href="/California/contents.php" ><img src="/images/gjw_2024/common/logo_cali.png" alt="캘리포니아비치"> 캘리포니아비치</a></div>
+		          <div class="member_02 box_gary"><a href="/DrValley/contents.php" target="_black" class="btn_line"><img src="/images/gjw_2024/common/draken.png" alt="캘리포니아비치"> 드라켄벨리</a></div>
+		      </div>
+		      <div class="member_type">
+		          <div class="member_01 box_gary"><a href="/Contents/contents.php?cmsNo=DE0200" ><i class="fa-solid fa-registered"></i> 단체예약</a></div>
+		          <div class="member_02 box_gary"><a href="/Contents/contents.php?cmsNo=DE0200" class="btn_line"><i class="fa-regular fa-credit-card"></i> 연간이용권</a></div>
+		      </div>-->
+
+                      <div class="member_type">
+                          <div class="member box_gary"><a href="/DrValley/contents.php?cmsNo=KD0000"><img src="/images/gjw_2024/common/logo_snow.png" alt="스노우파크"> 스노우파크</a></div>
+                          <!--<div class="member box_gary"><a href="/California/contents.php" ><img src="/images/gjw_2024/common/logo_cali.png" alt="캘리포니아비치"> 캘리포니아비치</a></div>-->
+                          <div class="member box_gary"><a href="https://www.gjw.co.kr/DrValley/contents.php" target="_black" class="btn_line"><img src="/images/gjw_2024/common/draken.png" alt="드라켄벨리"> 드라켄벨리</a></div>
+                                                    <div class="member_01 box_gary text-bg-light"><a href="/Contents/contents.php?cmsNo=DE0200"><i class="fa-solid fa-registered"></i> 단체예약</a></div>
+                          <div class="member_02 box_gary text-bg-light"><a href="/Contents/contents.php?cmsNo=DE0300" class="btn_line"><i class="fa-regular fa-credit-card"></i> 연간이용권</a></div>
+                                                </div>
+
+		      <!-- 검색창 -->
+		      <div class="mSrchArea">
+		        <div class="inputArea">
+                					<form name="frmSearch2" class="search-container" method="POST" action="" onsubmit="return search_submit2(this);">
+						<input type="hidden" name="sfl" value="wr_subject||wr_content">
+						<input type="hidden" name="sop" value="and">
+						<input id="search-box2" name="stx" class="search-box">
+						<a onclick="search_submit2(this)">
+							<label for="search-box2">
+								<img src="/images/gjw_2024/common/m_srch_btn2.png" alt="검색">
+							</label>
+						</a>
+					</form>
+                
+
+
+
+
+
+
+
+					<script>
+						function search_submit2(f) {
+							window.frmSearch2.action = "?cmsNo=DD0900&stl="+$('#search-box2').val();
+							// alert("들어오나");
+							// return false;
+							if ($('#search-box2').val().length < 2) {
+								alert("검색어는 두글자 이상 입력하십시오.");
+								// f.q.select();
+								// f.q.focus();
+								$('#search-box2').focus();
+								return false;
+							}
+
+							var gsWin = window.open('about:blank','webzine');
+							var frm =document.frmSearch2;
+							// frm.action = '/Contents/contents.php?cmsNo=DC0300&sch_str='+ encodeURI(f.q.value);
+							frm.target ="webzine";
+							frm.method ="post";
+
+							frm.submit();
+						}
+					</script>
+		        </div>
+		      </div>
+
+		      <div class="accordion accordion-flush" id="accordionFlushExample">
+																		
+						
+						
+						
+												<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed submenu" type="button" data-bs-toggle="collapse" data-bs-target="#tlv2_113" aria-expanded="false" aria-controls="tlv2_113">
+																		<a class="oneD" href="/Contents/contents.php?cmsNo=DB0200">즐길거리</a>
+																	</button>
+							</h2>
+							<div id="tlv2_113" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+								<div class="accordion-body submenu">
+									<ul class="list-group list-group-flush">
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DB0200">어트랙션</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DC0100">공연&amp;행사</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DB0300">푸드</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DB0400">스토어</a>
+																					</li>
+										
+																		
+						
+															</ul>
+								</div>
+							</div>
+						</div>
+						
+												<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed submenu" type="button" data-bs-toggle="collapse" data-bs-target="#tlv2_264" aria-expanded="false" aria-controls="tlv2_264">
+																		<a class="oneD" href="/Contents/contents.php?cmsNo=DA0300">요금/우대</a>
+																	</button>
+							</h2>
+							<div id="tlv2_264" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+								<div class="accordion-body submenu">
+									<ul class="list-group list-group-flush">
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DA0300">이용요금</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DA0400">우대혜택</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DA0500">제휴카드</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DE0300">연간이용</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DB0700">기업체</a>
+																					</li>
+										
+																		
+																			
+															</ul>
+								</div>
+							</div>
+						</div>
+						
+												<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed submenu" type="button" data-bs-toggle="collapse" data-bs-target="#tlv2_103" aria-expanded="false" aria-controls="tlv2_103">
+																		<a class="oneD" href="/Contents/contents.php?cmsNo=DA0200">이용정보</a>
+																	</button>
+							</h2>
+							<div id="tlv2_103" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+								<div class="accordion-body submenu">
+									<ul class="list-group list-group-flush">
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DA0200">운영/운휴</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DA0800">이용꿀팁</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DA0901">파크이용안내</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DA0902">편의시설</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DA0900">교통/주차장</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DB0501">가이드맵</a>
+																					</li>
+										
+																		
+						
+															</ul>
+								</div>
+							</div>
+						</div>
+						
+												<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed submenu" type="button" data-bs-toggle="collapse" data-bs-target="#tlv2_124" aria-expanded="false" aria-controls="tlv2_124">
+																		<a class="oneD" href="/Contents/contents.php?cmsNo=DD0100">고객센터</a>
+																	</button>
+							</h2>
+							<div id="tlv2_124" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+								<div class="accordion-body submenu">
+									<ul class="list-group list-group-flush">
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DD0100">공지사항</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DD0400">고객소리함</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DD0500">자주묻는질문</a>
+																					</li>
+										
+																		
+						
+						
+						
+																				<li class="list-group-item list-group-item-action">
+											<!--<img src="/images/gjw_2024/common/m_menu_icon.png" alt="">-->
+																						<a href="?cmsNo=DD0600">분실물센터</a>
+																					</li>
+										
+																		
+									</ul>
+								</div>
+							</div>
+						</div>
+
+		      </div>
+                <div class="lang_mo">
+                    <ul>
+                                                <li class="on">
+                            <a href="/Contents/contents.php">KOR</a>
+                        </li>
+                        <li>
+                            <a href="/Contents/eng_contents.php">ENG</a>
+                        </li>
+                                                                    </ul>
+                </div>
+
+		    </div><!--//offcanvas-body -->
+		  </div>
+          
+          <script>
+          $(document).on('click', '.search-icon', function(){
+            $('form[name="frmSearch"]').submit();
+          });
+          </script>
+<div class="subWrap">
+   <div id="subCon">
+		<section class="container">
+            <div class="page_navi">
+                <span>    
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+    
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+                    
+                    
+						
+							
+								
+								
+									
+
+                                     &gt; 
+
+                                    이용정보
+                                    
+									
+										
+                                                                                                                                                                                                                                                                          
+
+                                                      
+                          
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+                                                      
+                          
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+                                                      
+                          
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+                                                      
+                          
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                      										
+                                    
+                             &gt; 
+                            
+                            운영/운휴
+								
+									
+									
+								
+                							
+                            
+                            
+						
+					
+            </span>
+            </div>
+			<h1>운영/운휴</h1>
+		</section>
+
+		<section class="container">
+			<div class="operate_Wrap row">
+					<div class="days_list row" id="SelectDay"><div class="col-md-1"><a href="javascript:dataLoadingCalendar('2024-12-30', 'prev')" class="prev"><p>&lt;</p><h3>이전</h3></a></div><div class="col-md-10"><ul><li class="on today">
+          <a class="list_day" href="javascript:void(0);" onclick="dataLoadingList('2024-12-31')">
+            <p>화요일</p>
+            <h3>12.31</h3>
+            <span class="position-absolute top-0 start-50 translate-middle badge rounded-pill bg-danger">Today</span>
+          </a>
+        </li><li class="3">
+          <a class="list_day" href="javascript:void(0);" onclick="dataLoadingList('2025-01-01')">
+            <p>수요일</p>
+            <h3>1.1</h3>
+            
+          </a>
+        </li><li class="4">
+          <a class="list_day" href="javascript:void(0);" onclick="dataLoadingList('2025-01-02')">
+            <p>목요일</p>
+            <h3>1.2</h3>
+            
+          </a>
+        </li><li class="5">
+          <a class="list_day" href="javascript:void(0);" onclick="dataLoadingList('2025-01-03')">
+            <p>금요일</p>
+            <h3>1.3</h3>
+            
+          </a>
+        </li><li class="">
+          <a class="list_day" href="javascript:void(0);" onclick="dataLoadingList('2025-01-04')">
+            <p>토요일</p>
+            <h3>1.4</h3>
+            
+          </a>
+        </li><li class="">
+          <a class="list_day" href="javascript:void(0);" onclick="dataLoadingList('2025-01-05')">
+            <p>일요일</p>
+            <h3>1.5</h3>
+            
+          </a>
+        </li><li class="1">
+          <a class="list_day" href="javascript:void(0);" onclick="dataLoadingList('2025-01-06')">
+            <p>월요일</p>
+            <h3>1.6</h3>
+            
+          </a>
+        </li></ul></div><div class="col-md-1"><a href="javascript:dataLoadingCalendar('2025-01-07','next')" class="next"><p>&gt;</p><h3>다음</h3></a></div></div>
+			</div>
+			<div class="operate_alert" style="display: none;">
+				<!-- <h2>6.11<span>(화)</span> 정기 휴장일입니다.</h2> -->
+			</div>
+
+			<div class="operate_time">
+				<div class="row"><div class="col-md-6 col-sm-12 m_list">
+                                  <h4>종일권</h4>
+                                  <h2>10:00~18:00</h2>
+                              </div><div class="col-md-6 col-sm-12 m_list">
+                                  <h4>오후권</h4>
+                                  <h2>15:00~18:00</h2>
+                              </div></div>
+				<div class="operate_month">
+					<li><button type="button" class="btn OpenCalendar"><img src="/images/gjw_2024/sub/icon_calender.png"> 월별운영시간</button></li>
+				</div>
+			</div>
+
+			
+            <div class="operate_calendar" style="display: none"><div class="calendar_wrap"><div class="month"><span class="inner">
+                <b>2024.12</b>
+                <a data-month="2024-11" id="month_prev" class="prev" href="">이전</a>
+                <a data-month="2025-01" id="month_next" class="next" href="">다음</a>
+           </span></div></div><table class="calendar_tbl"><thead><tr><th>일</th><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th><th>토</th></tr></thead><tbody><tr><td class=""><div class="calendar_date"><p class="date">1</p><p class="desc time all" id="day1"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day1"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">2</p><p class="desc time all" id="day2"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day2"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">3</p><p class="desc time close" id="day3">정기 휴장일</p></div></td><td class=""><div class="calendar_date"><p class="date">4</p><p class="desc time all" id="day4"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day4"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">5</p><p class="desc time all" id="day5"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day5"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">6</p><p class="desc time all" id="day6"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day6"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">7</p><p class="desc time all" id="day7"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day7"><span>오후</span> 15:00~18:00</p></div></td></tr><tr><td class=""><div class="calendar_date"><p class="date">8</p><p class="desc time all" id="day8"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day8"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">9</p><p class="desc time all" id="day9"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day9"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">10</p><p class="desc time all" id="day10"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day10"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">11</p><p class="desc time all" id="day11"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day11"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">12</p><p class="desc time all" id="day12"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day12"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">13</p><p class="desc time all" id="day13"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day13"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">14</p><p class="desc time all" id="day14"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day14"><span>오후</span> 15:00~18:00</p></div></td></tr><tr><td class=""><div class="calendar_date"><p class="date">15</p><p class="desc time all" id="day15"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day15"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">16</p><p class="desc time all" id="day16"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day16"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">17</p><p class="desc time all" id="day17"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day17"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">18</p><p class="desc time all" id="day18"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day18"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">19</p><p class="desc time all" id="day19"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day19"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">20</p><p class="desc time all" id="day20"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day20"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">21</p><p class="desc time all" id="day21"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day21"><span>오후</span> 15:00~18:00</p></div></td></tr><tr><td class=""><div class="calendar_date"><p class="date">22</p><p class="desc time all" id="day22"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day22"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">23</p><p class="desc time all" id="day23"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day23"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">24</p><p class="desc time all" id="day24"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day24"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">25</p><p class="desc time all" id="day25"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day25"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">26</p><p class="desc time all" id="day26"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day26"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">27</p><p class="desc time all" id="day27"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day27"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">28</p><p class="desc time all" id="day28"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day28"><span>오후</span> 15:00~18:00</p></div></td></tr><tr><td class=""><div class="calendar_date"><p class="date">29</p><p class="desc time all" id="day29"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day29"><span>오후</span> 15:00~18:00</p></div></td><td class=""><div class="calendar_date"><p class="date">30</p><p class="desc time all" id="day30"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day30"><span>오후</span> 15:00~18:00</p></div></td><td class=" on "><div class="calendar_date"><p class="date">31</p><p class="desc time all" id="day31"><span>종일</span> 10:00~18:00</p><p class="desc time after" id="day31"><span>오후</span> 15:00~18:00</p></div></td><td class="blank">&nbsp; </td><td class="blank">&nbsp; </td><td class="blank">&nbsp; </td><td class="blank">&nbsp; </td></tr></tbody></table>
+        <div class="mobile_time">
+            <!--<div class="time all">
+                <span>종일</span><b>10:00~18:00</b>
+            </div>
+            <div class="time after">
+                <span>오후</span><b>15:00~18:00</b>
+            </div>
+            <div class="time all">
+                <span>종일</span><b>10:00~20:00</b>
+            </div>
+            <div class="time night">
+                <span>야간</span><b>16:00~20:00</b>
+            </div>
+            <div class="time close">
+                <b>정기 휴장일</b>
+            </div>-->
+        </div>
+        <button class="btn_close" type="button">닫기</button>
+        </div>
+
+            
+
+
+
+			<div class="col-12 facilities">
+				<div class="row">
+					<div class="col-md-9">
+						<h2 class="">
+                            운휴/대기 시설
+                            <a style="margin-left:8px;" class="btn_basic btn_red btn_small" href="/Contents/contents.php?cmsNo=DD0100&amp;bgrp&amp;act=view/detail/216">동절기 어트랙션 운행안내</a>
+                        </h2>
+						<div class="facilities_list_wrap">
+              				<div class="row" id="ajaxContainer">
+            <div class="col-md-4">
+                <ul class="facilities_list">
+                    <li>
+                        <span class="status">운휴</span>
+                        <img src="/Libs/imageCombine.php?key=5&amp;images=1&amp;mode=thumnail" style="width:94px">
+                        <div>
+                            <h5>스와니의 클라우드 라이드</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <p></p>
+                    </li>
+                </ul>
+            </div>
+          
+            <div class="col-md-4">
+                <ul class="facilities_list">
+                    <li>
+                        <span class="status">운휴</span>
+                        <img src="/Libs/imageCombine.php?key=24&amp;images=1&amp;mode=thumnail" style="width:94px">
+                        <div>
+                            <h5>섬머린스플래쉬</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <p></p>
+                    </li>
+                </ul>
+            </div>
+          
+            <div class="col-md-4">
+                <ul class="facilities_list">
+                    <li>
+                        <span class="status">운휴</span>
+                        <img src="/Libs/imageCombine.php?key=11&amp;images=1&amp;mode=thumnail" style="width:94px">
+                        <div>
+                            <h5>그랜드캐년대탐험</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <p></p>
+                    </li>
+                </ul>
+            </div>
+          
+            <div class="col-md-4">
+                <ul class="facilities_list">
+                    <li>
+                        <span class="status">운휴</span>
+                        <img src="/Libs/imageCombine.php?key=16&amp;images=1&amp;mode=thumnail" style="width:94px">
+                        <div>
+                            <h5>급류타기</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <p>동절기결빙</p>
+                    </li>
+                </ul>
+            </div>
+          
+            <div class="col-md-4">
+                <ul class="facilities_list">
+                    <li>
+                        <span class="status">운휴</span>
+                        <img src="/Libs/imageCombine.php?key=28&amp;images=1&amp;mode=thumnail" style="width:94px">
+                        <div>
+                            <h5>댄싱컵</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <p></p>
+                    </li>
+                </ul>
+            </div>
+          
+            <div class="col-md-4">
+                <ul class="facilities_list">
+                    <li>
+                        <span class="status">운휴</span>
+                        <img src="/Libs/imageCombine.php?key=9&amp;images=1&amp;mode=thumnail" style="width:94px">
+                        <div>
+                            <h5>메가드롭</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <p></p>
+                    </li>
+                </ul>
+            </div>
+          
+            <div class="col-md-4">
+                <ul class="facilities_list">
+                    <li>
+                        <span class="status">운휴</span>
+                        <img src="/Libs/imageCombine.php?key=2&amp;images=1&amp;mode=thumnail" style="width:94px">
+                        <div>
+                            <h5>드롤의 위자드트레인</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <p></p>
+                    </li>
+                </ul>
+            </div>
+          </div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<h2 class="">파트타임 시설(운영시간)</h2>
+						<div class="facilities_list_wrap part_time" id="partTime-wrap"><ul class="facilities_list_rt">
+                        <li class="no_list">
+                            <span>전기종 풀타임 운영합니다.</span>
+                        </li>
+                    </ul></div>
+					</div>
+				</div>
+
+				<div>
+					<ul class="alert_list">
+						<li>고객 여러분의 안전을 위해 어트랙션(놀이기구)의 안전 점검을 상시적으로 시행하고 있습니다.</li>
+						<li>기상상황 악화 시, 혹은 파크 사정상 예고 없이 어트랙션 운행이 중단될 수 있습니다.</li>
+						<li>기상으로 인한 운휴의 경우에는 기후조건에 따라 점검을 통해 재운행 될 수 있습니다.</li>
+						<li>파트타임 시설은 지정된 시간동안 운영합니다.</li>
+						<li>2025년 정기휴장일은 3/4, 6/10, 9/2, 11/4, 12/2일 입니다.(상황에 따라 변동될 수 있습니다.)</li>
+					</ul>
+				</div>
+			</div>
+
+		</section>
+	</div>
+</div>
+
+<div id="IdleTotalInformation">
+</div>
+
+<script type="text/javascript">
+$(document).on("click", ".OpenCalendar", function () {
+	$("#OperatingTimeCalendar").toggle();
+});
+
+
+var dtlink = '';
+
+$(document).ready(function(){
+	dataLoadingCalendar(dtlink);
+	dataLoadingList(dtlink);
+
+    // console.log($('li .on'))
+
+	$(document).on('click','#SelectDay li',function(){
+
+		$('#SelectDay li').removeClass("today");
+		$(this).addClass("today");
+        if($(this).hasClass('night')){
+            // alert("나이트");
+            $('.operate_time').addClass('night');
+        }else{
+            $('.operate_time').removeClass('night');
+        }
+	});
+});
+
+// 달력
+function dataLoadingCalendar(val, arrow) {
+	var postToValue = "&ajDate="+val+"&dtlink="+dtlink+"&arrow="+arrow;
+	$.post("https://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200/getCalendarInterface"+postToValue, function(data){
+		let jsonData = JSON.parse(data);
+		if (data != "") {
+			if(jsonData.success == 'ok') {
+				$('#SelectDay').html(jsonData.card_calendar);
+
+                if($('.today').hasClass('night')){
+                    $('.operate_time').addClass('night');
+                }else{
+                    $('.operate_time').removeClass('night');
+                }
+
+			}
+		}
+	});
+}
+
+function dataLoadingList(val){
+	$("#wrap-loading").show();
+	if(val){
+		var dtSplit = val.split('-');
+		$('#viewYearMonth').text(dtSplit[0]+'.'+dtSplit[1]);
+		dtlink = val;
+	}
+
+	var postToValue = "&date="+val;
+
+  //console.log("https://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200/getListData"+postToValue);
+
+	$('#ajaxContainer').html('');
+	$.post("https://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200/getListData"+postToValue, function(data){
+		if (data != "") {
+			$('#ajaxContainer').html(data);
+		}
+		$("#wrap-loading").hide();
+	});
+
+	var postToValue = "&date="+val;
+	$.post("https://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200/getListDataAll"+postToValue, function(data){
+		let jsonData = JSON.parse(data);
+		if (data != "") {
+			if(jsonData.success == 'ok') {
+				// $('#IdleTotalInformation').html(jsonData.outHtml);
+				if(jsonData.alert_days){
+					console.log(jsonData.alert_days);
+					$('.operate_alert').show();
+					$('.operate_alert').empty().html("<h2>" + jsonData.alert_days + "입니다.</h2>");
+				}else{
+					$('.operate_alert').hide();
+				}
+				$('.operate_time .row').empty().html(jsonData.operationTime1 + jsonData.operationTime2);
+			}
+		}
+	});
+
+	$.post("https://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200/getListDataPartTime"+postToValue, function(data){
+		let jsondata = JSON.parse(data)
+		if (data != "") {
+			// facilities_list_wrap
+			$('#partTime-wrap').empty().html(jsondata.outHtml);
+		}
+	});
+}
+
+$(document).on('click', '.btn_close', function(){
+    $('.operate_calendar').css('display', 'none');
+});
+
+$(document).on('click', '#month_prev, #month_next', function(e){
+    e.preventDefault();
+
+    // console.log("https://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200");
+
+    var month = $(this).data('month');
+
+    var dataObj = new Object();
+    dataObj['month'] = month;
+
+    $.ajax({
+        url: "https://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200"+"/get_calendar_ajax",
+        method: "POST",
+        data: dataObj,
+        success: function(data) {
+            var resultData = JSON.parse(data);
+            if(resultData.result == "success"){
+                $('.operate_calendar').html(resultData.data);
+            }else{
+                alert("에러 발생");
+            }
+        }
+    });
+});
+
+$(document).on('click', '.OpenCalendar', function(){
+    $('.operate_calendar').css('display', '');
+
+    var mobileBottomTag = '';
+    $.each($(".calendar_date"), function(i, e){
+        var daySec = 'time ';
+        var dayStr = '';
+
+        // console.log("들어오나");
+
+
+        var timeStr = '';
+        if($(e).parent().hasClass('on')){
+
+            var eachVal = $(e).children('.desc');
+
+            $.each(eachVal, function(i, e2){
+
+                // console.log($(e2));
+                timeStr = $(e2).text().split(' ')[1];
+
+                if($(e2).hasClass('all')){
+                    daySec = 'all';
+                    dayStr = '종일';
+                }else if($(e2).hasClass('day')){
+                    daySec = 'day';
+                    dayStr = '오전'
+                }else if($(e2).hasClass('night')){
+                    daySec = 'night';
+                    dayStr = '야간';
+                }else if($(e2).hasClass('after')){
+                    daySec = 'after';
+                    dayStr = '오후';
+                }else if($(e2).hasClass('close')){
+                    daySec = 'close';
+                    // dayStr = '오후';
+                }
+
+                mobileBottomTag += '<div class="'+daySec+'">';
+                mobileBottomTag += '<span>'+dayStr+'</span><b>'+timeStr+'</b>';
+                mobileBottomTag += '</div>';
+            });
+            console.log(mobileBottomTag);
+        }
+
+    });
+
+    $('.mobile_time').html(mobileBottomTag);
+});
+
+$(document).on('click', '.calendar_date', function(){
+
+    $.each($('.calendar_date'), function(i, e){
+        $(e).parent().removeClass('on');
+    });
+
+    $(this).parent().addClass(' on');
+
+    var thisData = $(this).children('.desc');
+    var mobileBottomTag = '';
+
+    $.each(thisData, function(i, e){
+        // console.log($(e));
+        var daySec = 'time ';
+        var dayStr = '';
+        if($(e).hasClass('all')){
+            daySec += 'all';
+            dayStr = '종일';
+        }else if($(e).hasClass('day')){
+            daySec += 'day';
+            dayStr = '오전'
+        }else if($(e).hasClass('night')){
+            daySec += 'night';
+            dayStr = '야간';
+        }else if($(e).hasClass('after')){
+            daySec += 'after';
+            dayStr = '오후';
+        }else if($(e).hasClass('close')){
+            daySec += 'close';
+            // dayStr = '오후';
+        }
+
+
+        var timeStr = $(e).text().split(' ')[1];
+
+        mobileBottomTag += '<div class="'+daySec+'">';
+        mobileBottomTag += '<span>'+dayStr+'</span><b>'+timeStr+'</b>';
+        mobileBottomTag += '</div>';
+
+
+    });
+
+    // console.log(mobileBottomTag);
+
+    $('.mobile_time').html(mobileBottomTag);
+
+});
+
+// $(document).on('click', '.list_day', function(e){
+//     // alert("나이트 클릭");
+// });
+</script>
+  
+<!-- ▼ FOOTER WARP ·································································································· -->
+<style>
+    .modal-header {
+        background: linear-gradient(to right, #f85549, #ff8e38);
+        color: #fff;
+        border-bottom: 0;
+        padding-bottom: 10px;
+    }
+</style>
+
+<div id="footer">
+  <div class="containers">
+
+    <div class="bottom">
+       <div class="left">
+        <div>
+          <p class="logo"><img src="/images/gjw_2024/common/gjw_logo.png" alt=""></p>
+          <p class="f_link">
+            <a href="/Contents/contents.php?cmsNo=DH0100">경주월드 소개</a>
+            <a href="/Contents/contents.php?cmsNo=DH0200">이용약관</a>
+            <a href="/Contents/contents.php?cmsNo=DH0300">개인정보취급방침</a>
+            <a href="/Contents/contents.php?cmsNo=DH0400">제휴문의</a>
+            <a href="/Contents/contents.php?cmsNo=DO0100">채용</a>
+            <a href="" data-bs-toggle="modal" data-bs-target="#email">이메일무단수집거부</a>
+          </p>
+          <p><span>경주월드 주식회사(경주지점)</span><span>38117 경주시 보문로 544(천군동)</span></p>
+          <p><span>전화 : 1544-8765</span><span>사업자등록번호 : 505-85-15586</span><span class="ceo">대표자 정원기, 함영관</span></p>
+          <p class="copyright">ⓒ GyeongjuWorld. All rights reserved.</p>
+        </div>
+       </div>
+
+      <div class="sns">
+        <a href="https://www.instagram.com/gyeongjuworld_official" target="_blank"><img src="/images/gjw_2024/common/sns_btn2.png" alt="인스타그램 바로가기"></a>
+        <a href="https://www.youtube.com/channel/UCY5OQjDmW1_SRO4saLQzveQ/feed" target="_blank"><img src="/images/gjw_2024/common/sns_btn3.png" alt="유튜브 바로가기"></a>
+        <a href="https://www.tiktok.com/@hi_gjw" target="_blank"><img src="/images/gjw_2024/common/sns_btn4.png" alt="틱톡 바로가기"></a>
+        <a href="https://pf.kakao.com/_xcExbpC" target="_blank"><img src="/images/gjw_2024/common/sns_btn6.png" alt="카카오톡 바로가기"></a>
+        <a href="https://blog.naver.com/hi_gjw" target="_blank"><img src="/images/gjw_2024/common/sns_btn5.png" alt="네이버블로그 바로가기"></a>
+        <a href="https://x.com/gyeongjuworld" target="_blank"><img src="/images/gjw_2024/common/sns_btn_x.png" alt="x 바로가기"></a>
+      </div>
+
+    </div><!-- // bottom -->
+
+   </div><!-- // container -->
+</div><!-- // footer -->
+
+
+<!-- 이메일무단수집거부 -->
+<div class="modal fade" id="email" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5">이메일무단수집거부</h1>
+        <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
+      </div>
+      <div class="modal-body">
+        <h5 class=""><strong>본 사이트에서는 전자우편주소 수집을 금지하고 있습니다.</strong></h5>
+        <p class="small" style="background:#efefef; padding:20px; margin:20px 0; border-radius:20px;">이에 위반하여 전자우편주소를 수집하는 프로그램, 그 밖의 기술적 장치를 이용하여 전자우편주소를 수집하는 경우와 정보통신망의 안정적 운영을 방해할 목적으로 대량의 신호 또는 데이터를 보내거나 부정한 명령을 처리하도록 하는 등의 방법으로 정보통신망에 장애를 발생하게 하는 경우에는 정보통신망 이용 촉진 및 정보보호등에 관한 법률에 따라 5년 이하의 징역 또는 5천만원 이하의 벌금 등의 형사처벌됨을 유념하시기 바랍니다.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div><!-- //wrapper -->
+
+
+
+  <!-- 식음 메뉴 보기 -->
+
+<script>
+$('.owl-carousel').owlCarousel({
+loop:false,
+autoplay:false,
+margin:15,
+autoplayHoverPause:true,
+responsiveClass:true,
+utoWidth:true,
+responsive:{
+    0:{
+        items:1,
+        nav:false
+    },
+    560:{
+        items:2,
+        nav:false
+    },
+    768:{
+        items:3,
+        nav:false
+    },
+    1330:{
+        items:5,
+        nav:false,
+        loop:false
+    }
+}
+})
+</script>
+
+
+  <!-- 어트랙션, 이벤트, 식음, 스토어 지도 보기
+  <script src="/css/gjw_2024/js/vendor/jquery.min.js" type="text/javascript"></script>
+  <script src="/css/gjw_2024/js/image-zoom.js" type="text/javascript"></script>
+  <script>
+  	var $ = jQuery.noConflict();
+
+  	$(document).ready(function(){
+
+  		// Image zoom plugin code
+  		var zoomImage = $('#imageZoom');
+  		var zoomImages = $('.zoom-images');
+
+  		zoomImage.imageZoom({ zoom: 250 });
+
+  		zoomImages.each(function() {
+  			$(this).imageZoom({ zoom: 250 });
+  		});
+
+  	});
+  </script>
+  -->
+<script>
+    $(document).ready(function(){
+        $(".zoomer_basic").zoomer();
+    });
+</script>
+<script src="/inc/gjw_2024/js/swiper-bundle.min.js"></script>
+<script src="/js/new_common.js?ver=1735626963"></script>
+
+<!-- 공통 적용 스크립트 , 모든 페이지에 노출되도록 설치. 단 전환페이지 설정값보다 항상 하단에 위치해야함 -->
+<iframe allow="join-ad-interest-group" data-tagging-id="G-F7STNE6E2J" data-load-time="1735626963831" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-F7STNE6E2J&amp;gacid=775110175.1735626964&amp;gtm=45be4cc1v9186657364za200&amp;dma=0&amp;gcs=G1--&amp;gcd=13l3l3R3l5l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101925629~102067555~102067808~102081485~102198178&amp;z=1850135100" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="G-QS6BQZ7S07" data-load-time="1735626963835" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-QS6BQZ7S07&amp;gacid=775110175.1735626964&amp;gtm=45be4cc1v9186657364za200&amp;dma=0&amp;gcs=G1--&amp;gcd=13l3l3R3l5l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101925629~102067555~102067808~102081485~102198178&amp;z=631990321" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-11045267619" data-load-time="1735626963841" height="0" width="0" src="https://td.doubleclick.net/td/rul/11045267619?random=1735626963836&amp;cv=11&amp;fst=1735626963836&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be4cc1v9186657364za200&amp;gcd=13l3l3R3l5l1&amp;dma=0&amp;tag_exp=101925629~102067555~102067808~102081485~102198178&amp;u_w=2560&amp;u_h=1440&amp;url=https%3A%2F%2Fwww.gjw.co.kr%2FContents%2Fcontents.php%3FcmsNo%3DDA0200&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%EC%9A%B4%EC%98%81%2F%EC%9A%B4%ED%9C%B4%20%7C%20%EA%BF%88%2C%20%EC%82%AC%EB%9E%91%2C%20%ED%96%89%EB%B3%B5%EC%9D%98%20%EA%B2%BD%EC%A3%BC%EC%9B%94%EB%93%9C!&amp;npa=0&amp;pscdl=noapi&amp;auid=1297906522.1735626964&amp;uaa=arm&amp;uab=64&amp;uafvl=Google%2520Chrome%3B131.0.6778.205%7CChromium%3B131.0.6778.205%7CNot_A%2520Brand%3B24.0.0.0&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=15.1.1&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;"></iframe><script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if (!wcs_add) var wcs_add={};
+wcs_add["wa"] = "s_32270bfad5de";
+if (!_nasa) var _nasa={};
+wcs.inflow("gjw.co.kr");
+wcs_do(_nasa);
+</script>
+
+<script type="text/javascript">
+    var lang = 'ko';
+    if(lang == 'en'){
+        function setCookie(key, value, expiry) {
+            var expires = new Date();
+            expires.setTime(expires.getTime() + (expiry * 24 * 60 * 60 * 1000));
+            document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+        }
+
+        setCookie('googtrans', '/ko/en', 1);
+
+        function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'ko',
+            includedLanguages: 'en,ja,zh-CN,zh-TW,th,vi',
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+            autoDisplay: false,
+            multilanguagePage: true
+        }, 'googleTranslateElementInit');
+        }
+
+    }else{
+        // alert("여기");
+        function deleteCookie(name) {
+            document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+        }
+
+        deleteCookie('googtrans');
+    }
+
+    // #googtrans(en)
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                
+
+<!-- Smartlog -->
+<script type="text/javascript">
+var hpt_info={ '_account':'UHPT-70564', '_server': 'a70' };
+</script>
+<script language="javascript" src="//cdn.smlog.co.kr/core/smart.js" charset="utf-8"></script><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+<noscript><img src="//a70.smlog.co.kr/smart_bda.php?_account=70564" style="display:none;width:0;height:0;" border="0"/></noscript>
+
+<!-- Facebook Pixel Code -->
+	<script>
+		!function(f,b,e,v,n,t,s){
+			if(f.fbq)return;
+			n=f.fbq=function(){
+				n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)
+			};
+			if(!f._fbq)
+			f._fbq=n;
+			n.push=n;
+			n.loaded=!0;
+			n.version='2.0';
+			n.queue=[];
+			t=b.createElement(e);
+			t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)
+		}
+		(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '334327730781062');
+		fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=334327730781062&ev=PageView&noscript=1" /></noscript>
+	<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "b98b9d80c1c8a8";
+wcs_do();
+</script>
+
+<script src="/inc/gjw_2024/js/jquery.jdSlider-latest.min.js"></script>
+<script>
+	$(document).ready(function(){
+		$('.slider2').jdSlider({
+			wrap: '.slide-inner',
+			isAuto: true,
+			isLoop: true
+		});
+	});
+
+    // console.log("lang:", 'ko');
+</script>
+
+
+
+</body></html>
