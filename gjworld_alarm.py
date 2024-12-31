@@ -58,6 +58,7 @@ if __name__ == "__main__":
 
     if text:
         text = text.strip()
+        text += "\n\nhttps://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200"
         send_discord_message(text)
         print(state)
         print(text)
