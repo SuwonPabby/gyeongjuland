@@ -38,14 +38,14 @@ if __name__ == "__main__":
     state = ""
 
     for query in queries:
-        if f"<h5>{query}</h5>" in driver.page_source:
+        if f"<h5>{query}" in driver.page_source:
             state += "1"
             with open("temp.txt", "w") as f:
                 f.write(driver.page_source)
         else:
             state += "0"
 
-    with open("state.txt", "r") as f:
+    with open("/home/ec2-user/gyeongjuland/state.txt", "r") as f:
         previous_state = f.read()
     text = ""
     print(previous_state)
@@ -63,7 +63,7 @@ if __name__ == "__main__":
         print(state)
         print(text)
 
-    with open("state.txt", "w") as f:
+    with open("/home/ec2-user/gyeongjuland/state.txt", "w") as f:
         f.write(state)
 
     # 드라이버 종료
