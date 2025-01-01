@@ -5,12 +5,20 @@ from selenium.webdriver.chrome.options import Options
 import requests
 import os
 import json
+import slack_sdk
 
 
 def send_discord_message(text):
     discord_url = os.environ.get("DISCORD_GJWORLD_URL")
     message = {"content": text}
     requests.post(discord_url, data=message)
+
+
+def send_slack_message(text):
+    slack_token = os.environ.get("SLACK_GJWORLD_TOKEN")
+    client = slack_sdk.WebClient(token=slack_token)
+
+    response = client.chat_postMessage(channel="경주월드-알람", text=text)
 
 
 if __name__ == "__main__":
@@ -59,7 +67,8 @@ if __name__ == "__main__":
     if text:
         text = text.strip()
         text += "\n\nhttps://www.gjw.co.kr/Contents/contents.php?cmsNo=DA0200"
-        send_discord_message(text)
+        # send_discord_message(text)
+        send_slack_message(text)
         print(state)
         print(text)
 
